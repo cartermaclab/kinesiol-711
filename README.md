@@ -1,1 +1,1 @@
-# kinesiol-711
+# KINESIOL 711 - Motor Control
